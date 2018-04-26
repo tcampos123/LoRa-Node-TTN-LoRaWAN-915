@@ -14,6 +14,8 @@ Comments
 
 Test performed using NodeMCU-32S ESP32 connected to the Lora1276 (NiceRF).
 
+Note: Libraries already edited !!!
+
 NiceRF
 ======
 
